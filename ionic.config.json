@@ -1,0 +1,7 @@
+{
+  "name": "Qoutes",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
